@@ -1,6 +1,6 @@
 # 🏄‍♂️ Matthew Lassiter
 
-**`College Student (SecurityResearcher/Developer)`**
+**`College Student`**
 
 I'm a college student at NVCC currently studying Cybersecurity. Some of the coding projects I work on are either security related or just creative work that I enjoy. Some side hobbies that I have are doing CTFs(Capture the flag challenges) and working with arduinos/micro controllers. 
 
