@@ -1,4 +1,4 @@
-# 🏄‍♂️ Matthew Lassiter
+# Matthew Lassiter
 
 **`College Student`**
 
