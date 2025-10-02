@@ -2,7 +2,15 @@
 
 **`College Student`**
 
-I'm a college student at GMU currently studying Cybersecurity. Some of the coding projects I work on are either security related or just creative work that I enjoy. Some side hobbies that I have are doing CTFs(Capture the flag challenges) and working with arduinos/micro controllers. 
+I'm a college student at GMU currently studying Cybersecurity. I’m passionate about security, web development, and artificial intelligence, and I’m constantly working on projects that combine these fields. My GitHub is a space where I:
+
+Explore security concepts, tools, and practices
+
+Build web applications and backend systems
+
+Experiment with AI models and apply them to real-world problems
+
+I enjoy learning by building, breaking things down, and improving them — whether it’s writing code, configuring systems, or diving into new frameworks and technologies.
 
 
    <p align="left">
